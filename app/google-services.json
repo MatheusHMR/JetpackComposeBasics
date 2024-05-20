@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025069650458",
+    "project_id": "projeto-interdisciplinar-7",
+    "storage_bucket": "projeto-interdisciplinar-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025069650458:android:81293e7f488c5cec6cb7a3",
+        "android_client_info": {
+          "package_name": "versioning.compose.src"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWfykxwV1dkx-dG7scErc7-L_2brBILw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
